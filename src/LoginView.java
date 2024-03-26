@@ -48,6 +48,8 @@ void userGUI()
 window.add(jTxtUname);
 window.add(jLabelPswd);
 window.add(jTxtPswd);
+
+
 window.add(LoginButton);
 window.add(RegisterButton);
 }
